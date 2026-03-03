@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3fa1fc&height=150&section=header" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=35&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=%E1%AF%93%E2%88%98+Welcome+%E2%9C%8C%EF%B8%8E%E3%8B%A1" />
-</p>
+<div align="right">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
 
 <h3 align="center">Professional Tech Stack</h3>
 
@@ -33,10 +29,10 @@
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
 </p>
 
-### ᯓ∘ yannbastos@github
+### yannbastos@github
 
 ```text
-ᯓ∘ ──────────── Info ──────────── ∘
+  ∘ ──────────── Info ──────────── ∘
 
   ⚧  Pronouns   : He/him
   🌎 Languages  : 🇧🇷/🇺🇸/🇪🇸
@@ -49,8 +45,7 @@
   📖 Learning   : HTML/CSS, Javascript, C++, Tableau
   🛠️ Tools      : VS Code, Power BI, Git, Obisidian
 
-  🎨 Hobbies    : Gaming, Watching movies, Reading,
-  ✨ Fun Fact   : Paranormal Order Player, all is well if it ends well
+  🎨 Hobbies    : Gaming, Watching movies, Reading
   👾 Discord    : granulado
 ```
 
