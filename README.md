@@ -43,7 +43,7 @@
   🤖 RPA        : Blue Prism
   🐍 Languages  : Python (Pandas, Numpy, Statistics, Matplotlib, Seaborn & Pyautogui), DAX, SQL
   📖 Learning   : HTML/CSS, Javascript, C++, Tableau
-  🛠️ Tools      : VS Code, Power BI, Git, Obisidian
+  🛠️ Tools      : VS Code, Dev-C++, Power BI, Git, Obsidian
 
   🎨 Hobbies    : Gaming, Watching movies, Reading
   👾 Discord    : granulado
