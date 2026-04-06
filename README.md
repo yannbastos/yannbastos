@@ -52,6 +52,6 @@
 <p align="center">
   <br>
   <i>"There is only one good, knowledge, and one evil, ignorance."</i><br>
-  <strong>— Socrates, (469 a.C. – 399 a.C.)</strong>
+  <strong>— Socrates, (469 b.C. – 399 b.C.)</strong>
   <br>
 </p>
