@@ -29,6 +29,13 @@
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
 </p>
 
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=yannbastos&theme=dark&hide_border=true" 
+    alt="GitHub Streak Stats"
+  />
+</p>
+
 ### yannbastos@github
 
 ```text
@@ -48,6 +55,7 @@
   🎨 Hobbies    : Gaming, Watching movies, Reading
   👾 Discord    : granulado
 ```
+
 
 <p align="center">
   <br>
