@@ -36,8 +36,6 @@
   />
 </p>
 
-### yannbastos@github
-
 ```text
   ∘ ──────────── Info ──────────── ∘
 
@@ -56,6 +54,12 @@
   👾 Discord    : granulado
 ```
 
+<p align="center">
+  <b>🎧 Now Playing</b><br /><br />
+  <a href="https://www.youtube.com/watch?v=vfkxaM9zldc" target="_blank">
+    <img src="https://img.youtube.com/vi/vfkxaM9zldc/0.jpg" width="400" />
+  </a>
+</p>
 
 <p align="center">
   <br>
