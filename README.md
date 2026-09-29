@@ -1,69 +1,83 @@
 <div align="right">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+  <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif?raw=true" alt="Octocat" width="120" />
 </div>
 
-<h3 align="center">Professional Tech Stack</h3>
+<h1 align="center">Yann Bastos</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  Junior Developer @ <b>WEG</b> · Software Engineering student @ <b>Católica SC</b><br />
+  Frontend-focused full stack developer · TypeScript · React · Next.js · NestJS
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Blue%20Prism-0081C4?style=for-the-badge&logo=blueprism&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Discord-granulado-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  <!-- <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
 </p>
+
+---
+
+### 👨‍💻 About me
+
+- 🏢 Building internal enterprise web applications at WEG
+- 🎨 Working with design systems, component standardization and Storybook
+- 🤖 Background in RPA (Blue Prism) and data analysis (Python, Power BI)
+- 🌎 Portuguese · English · Spanish
+- 📍 Jaraguá do Sul, SC — Brazil · he/him
+- 🎮 Gaming, movies and reading
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,html,css" alt="Languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" />
+<br />
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mysql" alt="Backend" />
+<br />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square" alt="Oracle" />
+
+**Data & Automation**
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square" alt="Tableau" />
+<img src="https://img.shields.io/badge/Blue%20Prism-0081C4?style=flat-square" alt="Blue Prism" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,obsidian" alt="Tools" />
+
+**Creative**
+
+<img src="https://skillicons.dev/icons?i=ps,pr,ae" alt="Adobe" />
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
+  <img src="https://streak-stats.demolab.com?user=yannbastos&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-3264FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=yannbastos&theme=dark&hide_border=true" 
-    alt="GitHub Streak Stats"
-  />
-</p>
-
-```text
-  ∘ ──────────── Info ──────────── ∘
-
-  ⚧  Pronouns   : He/him
-  🌎 Languages  : 🇧🇷/🇺🇸/🇪🇸
-  📍 Location   : Jaraguá do Sul, SC
-  🏫 University : Centro Universitário - Católica
-  🌱 Status     : Exploring Frontend & RPA
-
-  🤖 RPA        : Blue Prism
-  🐍 Languages  : Python (Pandas, Numpy, Statistics, Matplotlib, Seaborn & Pyautogui), DAX, SQL
-  📖 Learning   : HTML/CSS, Javascript, C++, Tableau
-  🛠️ Tools      : VS Code, Dev-C++, Power BI, Git, Obsidian
-
-  🎨 Hobbies    : Gaming, Watching movies, Reading
-  👾 Discord    : granulado
-```
+---
 
 <p align="center">
   <b>🎧 Now Playing</b><br /><br />
   <a href="https://www.youtube.com/watch?v=vfkxaM9zldc" target="_blank">
-    <img src="https://img.youtube.com/vi/vfkxaM9zldc/0.jpg" width="400" />
+    <img src="https://img.youtube.com/vi/vfkxaM9zldc/0.jpg" width="320" alt="Now Playing" />
   </a>
 </p>
 
 <p align="center">
-  <br>
-  <i>"There is only one good, knowledge, and one evil, ignorance."</i><br>
-  <strong>— Socrates, (469 b.C. – 399 b.C.)</strong>
-  <br>
+  <i>"There is only one good, knowledge, and one evil, ignorance."</i><br />
+  <sub>— Socrates (c. 470 – 399 BC), as recorded by Diogenes Laërtius</sub>
 </p>
