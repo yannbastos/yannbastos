@@ -80,7 +80,7 @@ Discord    : granulado
 
 <img src="https://skillicons.dev/icons?i=cpp,ps,pr,ae&theme=dark" alt="C++, Photoshop, Premiere, After Effects" />
 
-<details>
+<details open>
   <summary><sub>☠️ Prepare to debug</sub></summary>
 
 ```text
