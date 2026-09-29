@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 24" width="800" height="24" role="img" aria-label="Section divider">
+  <defs>
+    <linearGradient id="fade-left" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="368" y2="0">
+      <stop offset="0" stop-color="#c9a227" stop-opacity="0" />
+      <stop offset="1" stop-color="#c9a227" />
+    </linearGradient>
+    <linearGradient id="fade-right" gradientUnits="userSpaceOnUse" x1="760" y1="0" x2="432" y2="0">
+      <stop offset="0" stop-color="#c9a227" stop-opacity="0" />
+      <stop offset="1" stop-color="#c9a227" />
+    </linearGradient>
+  </defs>
+  <path d="M40 12H368" stroke="url(#fade-left)" stroke-width="1" />
+  <path d="M432 12H760" stroke="url(#fade-right)" stroke-width="1" />
+  <path d="M360 9L366 12L360 15Z" fill="#c9a227" />
+  <path d="M440 9L434 12L440 15Z" fill="#c9a227" />
+  <circle cx="376" cy="12" r="1.8" fill="#8b1e1e" />
+  <circle cx="424" cy="12" r="1.8" fill="#8b1e1e" />
+  <path d="M400 1L411 12L400 23L389 12Z" fill="#8b1e1e" stroke="#c9a227" stroke-width="1.2" />
+  <path d="M400 7L405 12L400 17L395 12Z" fill="#c9a227" />
+</svg>
