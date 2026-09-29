@@ -28,7 +28,7 @@ Languages  : pt-BR · en · es
 Pronouns   : he/him
 Hobbies    : Gaming · Movies · Reading
 Worlds     : Dark Souls · Elden Ring · The Witcher · Red Dead
-             Assassin's Creed · DOOM · League of Legends · Hytale
+             Assassin's Creed · DOOM · League of Legends
 Library    : Manga · Philosophy
 Discord    : granulado
 ```
