@@ -1,72 +1,128 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:163b65&height=200&section=header&text=Yann%20Bastos&fontSize=56&fontColor=e6edf3&fontAlignY=38&desc=Junior%20Developer%20%40%20WEG&descSize=18&descAlignY=58&animation=fadeIn" alt="Yann Bastos — Junior Developer @ WEG" />
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:163b65&height=190&section=header&text=Yann%20Bastos&fontSize=54&fontColor=e6edf3&fontAlignY=40&desc=Software%20Engineering%20%7C%20Junior%20Developer%20%40%20WEG&descSize=16&descAlignY=60](https://capsule-render.vercel.app/api?type=venom\&color=0:0d1117,100:163b65\&height=190\&section=header\&text=Yann%20Bastos\&fontSize=54\&fontColor=e6edf3\&fontAlignY=40\&desc=Software%20Engineering%20%7C%20Junior%20Developer%20%40%20WEG\&descSize=16\&descAlignY=60)" alt="Yann Bastos — Software Engineering | Junior Developer @ WEG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=C9A227&center=true&vCenter=true&width=560&lines=Frontend-focused+Full+Stack+Developer;TypeScript+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS;Design+Systems+%26+Storybook;Software+Engineering+%40+Cat%C3%B3lica+SC;Prepare+to+debug." alt="Frontend-focused Full Stack Developer · TypeScript · React · Next.js · NestJS" />
-</p>
+\<p align="center">
+&#x20; \<strong>Frontend-focused Developer · Full Stack · Automation & AI\</strong>
+\</p>
 
-<p align="center">
-  <a href="https://github.com/yannbastos"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=e6edf3" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Discord-granulado-163b65?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: granulado" />
-  <!-- <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=C9A227" alt="LinkedIn" /></a> -->
-</p>
+\<p align="center">
+&#x20; Building useful software, learning through practice, and enjoying the journey.
+\</p>
 
-<p align="center"><img width="100%" src="assets/divider-blue.svg" alt="" /></p>
+\<p align="center">
+&#x20; \<a href="[https://github.com/yannbastos](https://github.com/yannbastos)">GitHub\</a>
+&#x20; &nbsp;·&nbsp;
+&#x20; Discord: \<code>granulado\</code>
+\</p>
+
+\<p align="center">
+&#x20; \<img width="100%" src="assets/divider-blue.svg" alt="" />
+\</p>
 
 ### 🕯️ Bonfire
 
-<sub><i>Rest here, traveler.</i></sub>
+*Rest here, traveler.*
+
+I'm a **Software Engineering student at Católica SC** and a **Junior Developer at WEG**, based in Brazil.
+
+My main focus is frontend development, especially building interfaces with **TypeScript, React, and Next.js**. I also explore backend development, automation, and artificial intelligence.
+
+I enjoy understanding how things work, creating tools that solve real problems, and learning by building them.
 
 ```yaml
 yann@bonfire:~$ cat character.sheet
-───────────────────────────────────────────────
-Class      : Frontend-focused Full Stack Developer
-Guild      : WEG — Junior Developer
-Training   : Software Engineering @ Católica SC
-Origin     : Jaraguá do Sul, SC — Brazil
-OS         : EndeavourOS / Windows (dual boot)
-Languages  : pt-BR · en · es
-Pronouns   : he/him
-Hobbies    : Gaming · Movies · Reading
-Worlds     : Dark Souls · Elden Ring · The Witcher · Red Dead
-             Assassin's Creed · DOOM · League of Legends
-Library    : Manga · Philosophy
-Discord    : granulado
+
+Class     : Frontend-focused Full Stack Developer
+Guild     : WEG — Junior Developer
+Training  : Software Engineering @ Católica SC
+Location  : Santa Catarina, Brazil
+Focus     : Frontend · Backend · Automation · AI
+Languages : Portuguese · English · Spanish
 ```
 
-<p align="center"><img width="100%" src="assets/divider-blue.svg" alt="" /></p>
+\<p align="center">
+&#x20; \<img width="100%" src="assets/divider-blue.svg" alt="" />
+\</p>
 
-### 📜 Contracts
+### 📜 Featured Quest
 
-<sub><i>Notice board — taken, fulfilled, and still open.</i></sub>
+*Every great journey begins with an idea.*
 
-<img align="right" width="260" src="assets/avatar.gif" alt="John Marston smoking" />
+#### 🦅 Hórus — AI-powered Audiovisual Production
 
-- [x] Build internal enterprise web apps at WEG
-- [x] Ship frontend prototypes with the WEG Design System
-- [x] Survive RPA with Blue Prism
-- [ ] Standardize the frontend with shared guidelines & Storybook
-- [ ] Graduate in Software Engineering @ Católica SC
-- [ ] Clear the backlog of games
+A personal desktop application exploring how artificial intelligence and automation can simplify audiovisual production workflows.
 
-<br clear="right" />
+The project brings together software development, creative tools, and AI-assisted processes.
 
-<p align="center"><img width="100%" src="assets/divider-blue.svg" alt="" /></p>
+**Areas:** Desktop Development · Python · AI · Automation
+
+*Personal project — under development.*
+
+\<p align="center">
+&#x20; \<img width="100%" src="assets/divider-blue.svg" alt="" />
+\</p>
+
+### 📋 Contracts
+
+*Some contracts are fulfilled. Others are still waiting on the notice board.*
+
+**Completed**
+
+- [x] Work on internal enterprise web applications at WEG
+- [x] Develop frontend prototypes using the WEG Design System
+- [x] Gain practical experience with RPA and Blue Prism
+
+**In progress**
+
+- [ ] Improve frontend consistency through shared guidelines and Storybook
+- [ ] Complete my Software Engineering degree
+- [ ] Keep building and learning through personal projects
+
+\<p align="center">
+&#x20; \<img width="100%" src="assets/divider-blue.svg" alt="" />
+\</p>
 
 ### ⚔️ Arsenal
 
-<sub><i>Steel for the daily grind, silver for the monsters.</i></sub>
+*Steel for the daily grind, silver for the monsters.*
 
-| Categoria | Tecnologias e ferramentas |
-| :--- | :--- |
-| **Frontend** | TypeScript · React · Next.js · Tailwind CSS · Storybook |
-| **Backend** | Node.js · NestJS · Python |
-| **Bancos de dados** | PostgreSQL · MySQL · Oracle |
-| **Dados e automação** | Pandas · Power BI · Tableau · Blue Prism |
-| **Ferramentas** | Git · GitHub · GitLab · VS Code · Linux · Obsidian |
-| **Outras habilidades** | C++ · Photoshop · Premiere Pro · After Effects |
+| Discipline            | Technologies & Tools                                    |
+| :-------------------- | :------------------------------------------------------ |
+| **Frontend**          | TypeScript · React · Next.js · Tailwind CSS · Storybook |
+| **Backend**           | Node.js · NestJS · Python                               |
+| **Databases**         | PostgreSQL · MySQL · Oracle                             |
+| **Automation & Data** | Blue Prism · Pandas · Power BI · Tableau                |
+| **Development**       | Git · GitHub · GitLab · Linux · VS Code                 |
 
-<details>
-  <summary><sub>☠️ Prepare to debug</sub></summary>
+\<details>
+\<summary>⚒️ Additional tools & skills\</summary>
+
+\<br>
+
+C++ · Photoshop · Premiere Pro · After Effects · Obsidian
+
+\</details>
+
+\<p align="center">
+&#x20; \<img width="100%" src="assets/divider-blue.svg" alt="" />
+\</p>
+
+### 🗺️ Beyond the Code
+
+*Not every journey is written in code.*
+
+Outside software development, I spend my time exploring philosophy, literature, games, and fictional worlds.
+
+I'm especially drawn to stories about **choices, consequences, perseverance, and the human condition**.
+
+**Currently exploring**
+
+- 📚 **The Library:** Philosophy, literature, and manga
+- 🎲 **The Tavern:** Tabletop RPGs and storytelling
+- 🔥 **The Lands Between:** Dark Souls, Elden Ring, and The Witcher
+- 🐎 **The Frontier:** Red Dead Redemption
+
+\<details>
+\<summary>☠️ Prepare to debug\</summary>
 
 ```text
 CONTRACT ACCEPTED ....... git checkout -b feat/new-quest
@@ -75,25 +131,10 @@ YOU DIED ................ git revert HEAD
 WANTED: DEAD OR ALIVE ... git blame
 ```
 
-</details>
+\</details>
 
-<p align="center"><img width="100%" src="assets/divider-blue.svg" alt="" /></p>
+\<p align="center">   \<img width="100%" src="assets/divider-blue.svg" alt="" /> \</p>
 
-### 🗺️ Trail
+\<p align="center">   \<i>Stay curious. Keep building. Rest at the bonfire when you need to.\</i> \</p>
 
-<sub><i>Every commit leaves a track.</i></sub>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yannbastos/yannbastos/output/snake-blue-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yannbastos/yannbastos/output/snake-blue.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/yannbastos/yannbastos/output/snake-blue.svg" />
-</picture>
-
-<p align="center"><img width="100%" src="assets/divider-blue.svg" alt="" /></p>
-
-<p align="center">
-  <i>"There is only one good, knowledge, and one evil, ignorance."</i><br />
-  <sub>— Socrates (c. 470 – 399 BC), as recorded by Diogenes Laërtius</sub>
-</p>
-
-<img width="100%" src="assets/footer-blue.svg" alt="" />
+\<img width="100%" src="assets/footer-blue.svg" alt="" />
