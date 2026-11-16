@@ -13,8 +13,8 @@
   <path d="M432 12H760" stroke="url(#fade-right)" stroke-width="1" />
   <path d="M360 9L366 12L360 15Z" fill="#c9a227" />
   <path d="M440 9L434 12L440 15Z" fill="#c9a227" />
-  <circle cx="376" cy="12" r="1.8" fill="#8b1e1e" />
-  <circle cx="424" cy="12" r="1.8" fill="#8b1e1e" />
-  <path d="M400 1L411 12L400 23L389 12Z" fill="#8b1e1e" stroke="#c9a227" stroke-width="1.2" />
+  <circle cx="376" cy="12" r="1.8" fill="#163b65" />
+  <circle cx="424" cy="12" r="1.8" fill="#163b65" />
+  <path d="M400 1L411 12L400 23L389 12Z" fill="#163b65" stroke="#c9a227" stroke-width="1.2" />
   <path d="M400 7L405 12L400 17L395 12Z" fill="#c9a227" />
 </svg>

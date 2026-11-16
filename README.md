@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:8b1e1e&height=200&section=header&text=Yann%20Bastos&fontSize=56&fontColor=e6edf3&fontAlignY=38&desc=Junior%20Developer%20%40%20WEG&descSize=18&descAlignY=58&animation=fadeIn" alt="Yann Bastos — Junior Developer @ WEG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:163b65&height=200&section=header&text=Yann%20Bastos&fontSize=56&fontColor=e6edf3&fontAlignY=38&desc=Junior%20Developer%20%40%20WEG&descSize=18&descAlignY=58&animation=fadeIn" alt="Yann Bastos — Junior Developer @ WEG" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=C9A227&center=true&vCenter=true&width=560&lines=Frontend-focused+Full+Stack+Developer;TypeScript+%C2%B7+React+%C2%B7+Next.js+%C2%B7+NestJS;Design+Systems+%26+Storybook;Software+Engineering+%40+Cat%C3%B3lica+SC;Prepare+to+debug." alt="Frontend-focused Full Stack Developer · TypeScript · React · Next.js · NestJS" />
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/yannbastos"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=e6edf3" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Discord-granulado-8b1e1e?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: granulado" />
+  <img src="https://img.shields.io/badge/Discord-granulado-163b65?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: granulado" />
   <!-- <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=C9A227" alt="LinkedIn" /></a> -->
 </p>
 
@@ -60,7 +60,7 @@ Discord    : granulado
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,nestjs,postgres&theme=dark" alt="TypeScript, React, Next.js, Tailwind, Node.js, NestJS, PostgreSQL" />
 
-<img src="https://img.shields.io/badge/Storybook-161b22?style=flat-square&logo=storybook&logoColor=FF4785" alt="Storybook" />
+<img src="https://img.shields.io/badge/Storybook-161b22?style=flat-square&logo=storybook&logoColor=163B65" alt="Storybook" />
 <img src="https://img.shields.io/badge/Oracle-161b22?style=flat-square" alt="Oracle" />
 
 **Silver** · data & automation
@@ -99,7 +99,7 @@ WANTED: DEAD OR ALIVE ... git blame
 <sub><i>Every commit leaves a track.</i></sub>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yannbastos&theme=transparent&hide_border=true&ring=8B1E1E&fire=C9A227&currStreakLabel=C9A227&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=E6EDF3&dates=8B949E&stroke=30363D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=yannbastos&theme=transparent&hide_border=true&ring=163B65&fire=C9A227&currStreakLabel=C9A227&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=E6EDF3&dates=8B949E&stroke=30363D" alt="GitHub Streak" />
 </p>
 
 <picture>
@@ -115,4 +115,4 @@ WANTED: DEAD OR ALIVE ... git blame
   <sub>— Socrates (c. 470 – 399 BC), as recorded by Diogenes Laërtius</sub>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:8b1e1e,100:0d1117&height=120&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:163b65,100:0d1117&height=120&section=footer" alt="" />
