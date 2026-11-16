@@ -10,7 +10,7 @@
   <!-- <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=C9A227" alt="LinkedIn" /></a> -->
 </p>
 
-<p align="center"><img width="100%" src="assets/divider.svg?v=blue-2" alt="" /></p>
+<p align="center"><img width="100%" src="assets/divider-blue.svg" alt="" /></p>
 
 ### 🕯️ Bonfire
 
@@ -33,7 +33,7 @@ Library    : Manga · Philosophy
 Discord    : granulado
 ```
 
-<p align="center"><img width="100%" src="assets/divider.svg?v=blue-2" alt="" /></p>
+<p align="center"><img width="100%" src="assets/divider-blue.svg" alt="" /></p>
 
 ### 📜 Contracts
 
@@ -50,7 +50,7 @@ Discord    : granulado
 
 <br clear="right" />
 
-<p align="center"><img width="100%" src="assets/divider.svg?v=blue-2" alt="" /></p>
+<p align="center"><img width="100%" src="assets/divider-blue.svg" alt="" /></p>
 
 ### ⚔️ Arsenal
 
@@ -92,23 +92,23 @@ WANTED: DEAD OR ALIVE ... git blame
 
 </details>
 
-<p align="center"><img width="100%" src="assets/divider.svg?v=blue-2" alt="" /></p>
+<p align="center"><img width="100%" src="assets/divider-blue.svg" alt="" /></p>
 
 ### 🗺️ Trail
 
 <sub><i>Every commit leaves a track.</i></sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yannbastos/yannbastos/output/snake-dark.svg?v=blue-2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yannbastos/yannbastos/output/snake.svg?v=blue-2" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/yannbastos/yannbastos/output/snake.svg?v=blue-2" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yannbastos/yannbastos/output/snake-blue-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yannbastos/yannbastos/output/snake-blue.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/yannbastos/yannbastos/output/snake-blue.svg" />
 </picture>
 
-<p align="center"><img width="100%" src="assets/divider.svg?v=blue-2" alt="" /></p>
+<p align="center"><img width="100%" src="assets/divider-blue.svg" alt="" /></p>
 
 <p align="center">
   <i>"There is only one good, knowledge, and one evil, ignorance."</i><br />
   <sub>— Socrates (c. 470 – 399 BC), as recorded by Diogenes Laërtius</sub>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:163b65,100:0d1117&height=120&section=footer" alt="" />
+<img width="100%" src="assets/footer-blue.svg" alt="" />
