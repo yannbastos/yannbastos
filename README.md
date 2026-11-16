@@ -56,31 +56,16 @@ Discord    : granulado
 
 <sub><i>Steel for the daily grind, silver for the monsters.</i></sub>
 
-**Steel** · daily stack
+| Categoria | Tecnologias e ferramentas |
+| :--- | :--- |
+| **Frontend** | TypeScript · React · Next.js · Tailwind CSS · Storybook |
+| **Backend** | Node.js · NestJS · Python |
+| **Bancos de dados** | PostgreSQL · MySQL · Oracle |
+| **Dados e automação** | Pandas · Power BI · Tableau · Blue Prism |
+| **Ferramentas** | Git · GitHub · GitLab · VS Code · Linux · Obsidian |
+| **Outras habilidades** | C++ · Photoshop · Premiere Pro · After Effects |
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,nestjs,postgres&theme=dark" alt="TypeScript, React, Next.js, Tailwind, Node.js, NestJS, PostgreSQL" />
-
-<img src="https://img.shields.io/badge/Storybook-161b22?style=flat-square&logo=storybook&logoColor=163B65" alt="Storybook" />
-<img src="https://img.shields.io/badge/Oracle-161b22?style=flat-square" alt="Oracle" />
-
-**Silver** · data & automation
-
-<img src="https://skillicons.dev/icons?i=py,mysql&theme=dark" alt="Python, MySQL" />
-
-<img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=e6edf3" alt="Pandas" />
-<img src="https://img.shields.io/badge/Power%20BI-161b22?style=flat-square" alt="Power BI" />
-<img src="https://img.shields.io/badge/Tableau-161b22?style=flat-square" alt="Tableau" />
-<img src="https://img.shields.io/badge/Blue%20Prism-161b22?style=flat-square" alt="Blue Prism" />
-
-**Saddlebag** · tools
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,obsidian&theme=dark" alt="Git, GitHub, GitLab, VS Code, Linux, Obsidian" />
-
-**Side quests**
-
-<img src="https://skillicons.dev/icons?i=cpp,ps,pr,ae&theme=dark" alt="C++, Photoshop, Premiere, After Effects" />
-
-<details open>
+<details>
   <summary><sub>☠️ Prepare to debug</sub></summary>
 
 ```text
