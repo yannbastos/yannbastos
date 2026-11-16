@@ -10,7 +10,7 @@
   <!-- <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=C9A227" alt="LinkedIn" /></a> -->
 </p>
 
-<p align="center"><img width="100%" src="assets/divider.svg" alt="" /></p>
+<p align="center"><img width="100%" src="assets/divider.svg?v=blue-2" alt="" /></p>
 
 ### 🕯️ Bonfire
 
@@ -33,7 +33,7 @@ Library    : Manga · Philosophy
 Discord    : granulado
 ```
 
-<p align="center"><img width="100%" src="assets/divider.svg" alt="" /></p>
+<p align="center"><img width="100%" src="assets/divider.svg?v=blue-2" alt="" /></p>
 
 ### 📜 Contracts
 
@@ -50,7 +50,7 @@ Discord    : granulado
 
 <br clear="right" />
 
-<p align="center"><img width="100%" src="assets/divider.svg" alt="" /></p>
+<p align="center"><img width="100%" src="assets/divider.svg?v=blue-2" alt="" /></p>
 
 ### ⚔️ Arsenal
 
@@ -92,23 +92,19 @@ WANTED: DEAD OR ALIVE ... git blame
 
 </details>
 
-<p align="center"><img width="100%" src="assets/divider.svg" alt="" /></p>
+<p align="center"><img width="100%" src="assets/divider.svg?v=blue-2" alt="" /></p>
 
 ### 🗺️ Trail
 
 <sub><i>Every commit leaves a track.</i></sub>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yannbastos&theme=transparent&hide_border=true&ring=163B65&fire=C9A227&currStreakLabel=C9A227&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=E6EDF3&dates=8B949E&stroke=30363D" alt="GitHub Streak" />
-</p>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yannbastos/yannbastos/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yannbastos/yannbastos/output/snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/yannbastos/yannbastos/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yannbastos/yannbastos/output/snake-dark.svg?v=blue-2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yannbastos/yannbastos/output/snake.svg?v=blue-2" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/yannbastos/yannbastos/output/snake.svg?v=blue-2" />
 </picture>
 
-<p align="center"><img width="100%" src="assets/divider.svg" alt="" /></p>
+<p align="center"><img width="100%" src="assets/divider.svg?v=blue-2" alt="" /></p>
 
 <p align="center">
   <i>"There is only one good, knowledge, and one evil, ignorance."</i><br />
