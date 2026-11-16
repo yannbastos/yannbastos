@@ -18,77 +18,32 @@
 
 ### 🕯️ Bonfire
 
-*Rest here, traveler.*
-
-I'm a **Software Engineering student at Católica SC** and a **Junior Developer at WEG**, based in Brazil.
-
-My main focus is frontend development, especially building interfaces with **TypeScript, React, and Next.js**. I also explore backend development, automation, and artificial intelligence.
-
-I enjoy understanding how things work, creating tools that solve real problems, and learning by building them.
-
-```yaml
-yann@bonfire:~$ cat character.sheet
-
-Class     : Frontend-focused Full Stack Developer
-Guild     : WEG — Junior Developer
-Training  : Software Engineering @ Católica SC
-Location  : Santa Catarina, Brazil
-Focus     : Frontend · Backend · Automation · AI
-Languages : Portuguese · English · Spanish
-```
+**Junior Developer @ WEG** · Software Engineering @ Católica SC  
+Frontend · Automation · AI · Santa Catarina, Brazil
 
 <p align="center"><img width="100%" src="assets/divider-blue.svg" alt="" /></p>
 
-### 🗺️ Featured Quest
+### 🗺️ Current Quest
 
-*Every great journey begins with an idea.*
-
-#### Hórus — AI-powered Audiovisual Production
-
-A personal desktop application exploring how artificial intelligence and automation can simplify audiovisual production workflows.
-
-The project brings together software development, creative tools, and AI-assisted processes.
-
-**Areas:** Desktop Development · Python · AI · Automation
-
-*Personal project — under development.*
-
-<p align="center"><img width="100%" src="assets/divider-blue.svg" alt="" /></p>
-
-### 📜 Contracts
-
-*Some contracts are fulfilled. Others are still waiting on the notice board.*
-
-**Completed**
-
-- [x] Work on internal enterprise web applications at WEG
-- [x] Develop frontend prototypes using the WEG Design System
-- [x] Gain practical experience with RPA and Blue Prism
-
-**In progress**
-
-- [ ] Improve frontend consistency through shared guidelines and Storybook
-- [ ] Complete my Software Engineering degree
-- [ ] Keep building and learning through personal projects
+**Hórus** — Desktop app for AI-assisted audiovisual production.  
+<sub>React · TypeScript · Tauri · Python · FastAPI — under development</sub>
 
 <p align="center"><img width="100%" src="assets/divider-blue.svg" alt="" /></p>
 
 ### ⚔️ Arsenal
 
-*Steel for the daily grind, silver for the monsters.*
-
-| Discipline | Technologies & Tools |
-| :--- | :--- |
-| **Frontend** | TypeScript · React · Next.js · Tailwind CSS · Storybook |
-| **Backend** | Node.js · NestJS · Python |
-| **Databases** | PostgreSQL · MySQL · Oracle |
-| **Automation & Data** | Blue Prism · Pandas · Power BI · Tableau |
-| **Development** | Git · GitHub · GitLab · Linux · VS Code |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,nestjs,py,postgres&theme=dark" alt="TypeScript, React, Next.js, Tailwind CSS, Node.js, NestJS, Python, PostgreSQL" />
+</p>
 
 <details>
-<summary>⚒️ Additional tools &amp; skills</summary>
+<summary>More tools &amp; skills</summary>
 
-C++ · Photoshop · Premiere Pro · After Effects · Obsidian
+| Area | Tools |
+| :--- | :--- |
+| Data & Automation | MySQL · Oracle · Pandas · Power BI · Tableau · Blue Prism |
+| Development | Git · GitHub · GitLab · Linux · VS Code · Storybook |
+| Creative | Photoshop · Premiere Pro · After Effects · Obsidian · C++ |
 
 </details>
 
@@ -96,18 +51,9 @@ C++ · Photoshop · Premiere Pro · After Effects · Obsidian
 
 ### 🏕️ Beyond the Code
 
-*Not every journey is written in code.*
+📚 Philosophy & Literature · 🎲 Tabletop RPGs · 🎮 Games
 
-Outside software development, I spend my time exploring philosophy, literature, games, and fictional worlds.
-
-I'm especially drawn to stories about **choices, consequences, perseverance, and the human condition**.
-
-**Currently exploring**
-
-- **The Library:** Philosophy, literature, and manga
-- **The Tavern:** Tabletop RPGs and storytelling
-- **The Lands Between:** Dark Souls, Elden Ring, and The Witcher
-- **The Frontier:** Red Dead Redemption
+<sub>Dark Souls · Elden Ring · The Witcher · Red Dead Redemption</sub>
 
 <details>
 <summary>☠️ Prepare to debug</summary>
@@ -120,9 +66,5 @@ WANTED: DEAD OR ALIVE ... git blame
 ```
 
 </details>
-
-<p align="center"><img width="100%" src="assets/divider-blue.svg" alt="" /></p>
-
-<p align="center"><i>Stay curious. Keep building. Rest at the bonfire when you need to.</i></p>
 
 <img width="100%" src="assets/footer-blue.svg" alt="" />
